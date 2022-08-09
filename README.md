@@ -4,6 +4,8 @@ Below are some Test Cases that I wrote while self-learning.
 
 _______________________________________________________________
 
+## Login Test Cases ##
+
 ### Title: Test login with correct credentials ###
 
 **Description:**
@@ -75,3 +77,101 @@ The user is not able to login.
 
 **Test Data:**
 - User: correctid
+
+_______________________________________________________________
+
+### Title: <placeholder> ###
+  
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <placeholder>
+  
+  _______________________________________________________________
+
+### Title: <placeholder> ###
+  
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <placeholder>
+  
+  _______________________________________________________________
+
+### Title: <placeholder> ###
+  
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <placeholder>
+  
+  _______________________________________________________________
+
+### Title: <placeholder> ###
+  
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <placeholder>
+  
+  _______________________________________________________________
+
+### Title: <placeholder> ###
+  
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <placeholder>
+  
+  _______________________________________________________________
+
+### Title: <placeholder> ###
+  
+**Description:**
+<Placeholder>
+  
+**Steps to reproduce:**
+<Placeholder>
+
+**Expected result:**
+<Placeholder>
+
+**Test Data:**
+- <placeholder>
+  
+  
