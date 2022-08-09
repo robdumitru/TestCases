@@ -6,7 +6,7 @@ _______________________________________________________________
 
 ## Login Test Cases ##
 
-### Title: Test login with correct credentials ###
+### 1. Title: Test login with correct credentials ###
 
 **Description:**
 Test the login by using correct credentials.
@@ -24,7 +24,7 @@ The user is able to login.
 - Pass: hjA$FiTwcsVO!IOv
 _______________________________________________________________
 
-### Title: Test if login username is case sensitive ###
+### 2. Title: Test if login username is case sensitive ###
 
 **Description:**
 Test the login by using correct username in all caps and correct password.
@@ -42,7 +42,7 @@ The user is able to login.
 - Pass: hjA$FiTwcsVO!IOv
 _______________________________________________________________
 
-### Title: Test login with incorrect credentials ###
+### 3. Title: Test login with incorrect credentials ###
 
 **Description:**
 Test the login by using incorrect credentials.
@@ -61,7 +61,7 @@ The user is not able to login.
 
 _______________________________________________________________
 
-### Title: Test login without typing any password ###
+### 4. Title: Test login without typing any password ###
 
 **Description:**
 Test the login by using correct username but no password.
@@ -80,7 +80,7 @@ The user is not able to login.
 
 _______________________________________________________________
 
-### Title: Test login without typing any credentials ###
+### 5. Title: Test login without typing any credentials ###
   
 **Description:**
 Test the login by not using any credentials.
@@ -98,23 +98,27 @@ The user is not able to login.
   
 _______________________________________________________________
 
-### Title: <placeholder> ###
+### 6. Title: Test login by inversing username & password order ###
   
 **Description:**
-<Placeholder>
+Test the login by using correct username and correct password in inversed order
   
 **Steps to reproduce:**
-<Placeholder>
+1. Go to the Login Page (https://login.wordpress.org)
+2. Add correct username in the password field
+3. Add correct password in the username field
+3. Observe if the user can login
 
 **Expected result:**
-<Placeholder>
+The user is not able to login.
 
 **Test Data:**
-- <placeholder>
+- User: QATESTINGPROJECT
+- Pass: GJA$FITWCSVO!IOV
   
 _______________________________________________________________
 
-### Title: Test if login password is case sensitive ###
+### 7. Title: Test if login password is case sensitive ###
   
 **Description:**
 Test the login by using correct username and correct password with all caps.
