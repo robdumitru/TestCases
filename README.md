@@ -80,19 +80,21 @@ The user is not able to login.
 
 _______________________________________________________________
 
-### Title: <placeholder> ###
+### Title: Test login without typing any credentials ###
   
 **Description:**
-<Placeholder>
+Test the login by not using any credentials.
   
 **Steps to reproduce:**
-<Placeholder>
+1. Go to the Login Page (https://login.wordpress.org)
+2. Leave the credentials fields empty
+3. Observe if the user can login
 
 **Expected result:**
-<Placeholder>
+The user is not able to login.
 
 **Test Data:**
-- <placeholder>
+- N/A
   
 _______________________________________________________________
 
@@ -112,19 +114,22 @@ _______________________________________________________________
   
 _______________________________________________________________
 
-### Title: <placeholder> ###
+### Title: Test if login password is case sensitive ###
   
 **Description:**
-<Placeholder>
+Test the login by using correct username and correct password with all caps.
   
 **Steps to reproduce:**
-<Placeholder>
+1. Go to the Login Page (https://login.wordpress.org)
+2. Add correct username and correct password in all caps
+3. Observe if the user can login
 
 **Expected result:**
-<Placeholder>
+The user is not able to login.
 
 **Test Data:**
-- <placeholder>
+- User: QATESTINGPROJECT
+- Pass: GJA$FITWCSVO!IOV
   
 _______________________________________________________________
 
