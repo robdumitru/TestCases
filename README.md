@@ -113,8 +113,8 @@ Test the login by using correct username and correct password in inversed order
 The user is not able to login.
 
 **Test Data:**
-- User: QATESTINGPROJECT
-- Pass: GJA$FITWCSVO!IOV
+- User: qatestingproject
+- Pass: hjA$FiTwcsVO!IOv
   
 _______________________________________________________________
 
