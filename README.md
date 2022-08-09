@@ -4,24 +4,24 @@ Below are some Test Cases that I wrote while self-learning.
 
 _______________________________________________________________
 
-##**Title:**
+**Title:**
 
 Test login with correct credentials
 
-##**Description:**
+**Description:**
 
 Test the login by using correct credentials.
 
-##**Steps to Reproduce:**
+**Steps to Reproduce:**
 1. Go to the Login Page (https://login.wordpress.org)
 2. Add correct credentials
 3. Observe if the user can login
 
-##**Expected result:**
+**Expected result:**
 
 The user is able to login.
 
-##**Test Data:**
+**Test Data:**
 
 "User: qatestingproject
 Pass: hjA$FiTwcsVO!IOv"
