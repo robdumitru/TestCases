@@ -203,7 +203,7 @@ Test the search bar by using valid item names.
 **Steps to reproduce:**
 1. Go to EMAG Website (https://www.emag.ro)
 2. Open the search bar
-3. Search for ""lapte""
+3. Search for "lapte"
 4. Observe if the search bar is showing the user relevant items to his search
 
 **Expected result:**
@@ -222,7 +222,7 @@ Test the search bar by using diacritics.
 **Steps to reproduce:**
 1. Go to EMAG Website (https://www.emag.ro)
 2. Open the search bar
-3. Search ""cârpă""
+3. Search "cârpă"
 4. Observe if the search bar finds relevant results
 
 **Expected result:**
